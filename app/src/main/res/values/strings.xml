@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BINlist</string>
+    <string name="title_find">Find</string>
+    <string name="title_history">History</string>
+    <string name="enter_bin">Enter BIN/IIN</string>
+    <string name="card_text">Card</string>
+    <string name="bank_text">Bank</string>
+    <string name="country_text">Country</string>
+    <string name="err_empty_enter">Please enter BIN</string>
+    <string name="err_req_mes">Wrong BIN. Retry</string>
+    <string name="err_nw_mes">Network error. Try later</string>
+</resources>
